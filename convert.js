@@ -8,7 +8,7 @@ module.exports = function (line) {
     line = `## [${ucfirst(matches[1])}]`;
   }
 
-  matches = line.match(/[##|###] (ADDED|CHANGED|REMOVED):*/i);
+  matches = line.match(/[##|###] (ADDED|CHANGED|DEPRECATED|REMOVED|FIXED|SECURITY):*/i);
   if (matches && matches.length > 1) {
     line = `### ${ucfirst(matches[1])}`;
   }
