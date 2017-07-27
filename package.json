@@ -1,0 +1,18 @@
+{
+  "name": "sc-changelog-formater",
+  "version": "1.0.0",
+  "description": "Script formats CHANGELOG.md",
+  "bin": {
+    "sc-changelog-formater": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mladenilic/sc-changelog-formater"
+  },
+  "keywords": [
+    "Changelog",
+    "Formater"
+  ],
+  "author": "Mladen Ilic",
+  "license": "MIT",
+}
