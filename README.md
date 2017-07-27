@@ -3,10 +3,10 @@ Parse and update changelog to correct ([http://keepachangelog.com/](http://keepa
 
 ## Install
 ```sh
-npm install --global sc-changelog-formater
+npm install --global sc-changelog-formatter
 ```
 
 ## Usage
 ```sh
-sc-changelog-formater path/to/CHANGELOG.md
+sc-changelog-formatter path/to/CHANGELOG.md
 ```

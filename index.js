@@ -2,7 +2,7 @@
 
 'use strict';
 
-process.title = 'sc-changelog-formater';
+process.title = 'sc-changelog-formatter';
 
 const fs = require('fs');
 const convert = require('./convert');
