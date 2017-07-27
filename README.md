@@ -1,4 +1,4 @@
-# sc-changelog-formater - [![npm version](https://badge.fury.io/js/sc-changelog-formater.svg)](https://badge.fury.io/js/sc-changelog-formater)
+# sc-changelog-formater - [![npm version](https://badge.fury.io/js/sc-changelog-formatter.svg)](https://badge.fury.io/js/sc-changelog-formatter)
 Parse and update changelog to correct ([http://keepachangelog.com/](http://keepachangelog.com/)) format 
 
 ## Install
