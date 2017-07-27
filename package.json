@@ -1,9 +1,9 @@
 {
   "name": "sc-changelog-formatter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Script formats CHANGELOG.md",
   "bin": {
-    "sc-changelog-formater": "index.js"
+    "sc-changelog-formatter": "index.js"
   },
   "repository": {
     "type": "git",
